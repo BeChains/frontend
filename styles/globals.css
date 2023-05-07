@@ -5,7 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.container-box-shadow {
+  box-shadow: 0px 0px 10px #ff42d9e3;
+}
 
 .hideScrollBar::-webkit-scrollbar{
   display: none;
@@ -13,15 +15,15 @@
 
 
 .generate {
- 
+  box-shadow: 0px 0px 10px #fd29d2e3;
 }
 
 .generate:hover {
- 
+  box-shadow: 0px 0px 25px #fd0bcde3;
 }
 
 .exploreMoreBuildFocus {
-
+  box-shadow: 0 0 10px 1000px rgba(0, 0, 0, 0.5), 0px 0px 30px 10px #f93cd367;;
   
 }
 

@@ -27,27 +27,12 @@ export default function Home() {
           Get Started
         </div></Link>
       </div>
-      <div className="absolute left-5 bottom-5 right-0 flex items-center justify-center ">
+      <div className="absolute left-0 bottom-5 right-5 flex items-center justify-center ">
         <div className="flex items-center justify-center w-full md:w-[50%]">
-          {/* <img
-            src="/static/sponsor1.png"
-            className="ml-3 w-[10%] md:w-[15%] rounded cursor-pointer hover:opacity-90 transition"
-          /> */}
-          <img
-            src="/static/sponsor2.png"
-            className="mx-3 w-[10%] md:w-[15%] rounded cursor-pointer hover:opacity-90 transition"
-          /> 
-          <br></br>
-          <br></br>
-          <img
-            src="/static/sponsor3.png"
-            className="mx-3 w-[10%] md:w-[15%] rounded cursor-pointer hover:opacity-90 transition"
-          /> 
-          <br></br>
-          <br></br>
+         
           <img
             src="/static/logo-light.svg"
-            className="mx-3 w-[10%] md:w-[15%] rounded cursor-pointer hover:opacity-90 transition"
+            className="mx-2 w-[10%] md:w-[15%] rounded cursor-pointer hover:opacity-90 transition"
           />
         </div>
         

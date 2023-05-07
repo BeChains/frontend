@@ -9,9 +9,31 @@ import { chain, configureChains, createClient, WagmiConfig } from "wagmi";
 import { alchemyProvider } from "wagmi/providers/alchemy";
 import { publicProvider } from "wagmi/providers/public";
 import { Toaster } from 'react-hot-toast'
+const mantletestnet = {
+  id: 5001,
+  name: 'mantle',
+  network: 'mantletestnet',
+  iconUrl: 'https://example.com/icon.svg',
+  iconBackground: '#fff',
+  nativeCurrency: {
+    decimals: 18,
+    name: 'bit',
+    symbol: 'BIT',
+  },
+  rpcUrls: {
+    default: {
+      http: ['https://rpc.testnet.mantle.xyz/'],
+    },
+  },
+  blockExplorers: {
+    default: { name: 'SnowTrace', url: 'https://snowtrace.io' },
+    etherscan: { name: 'SnowTrace', url: 'https://snowtrace.io' },
+  },
+  testnet: false,
+};
 
 const { chains, provider } = configureChains(
-  [chain.optimismGoerli, chain.polygonMumbai, chain.localhost],
+  [mantletestnet],
   [alchemyProvider({ apiKey: process.env.ALCHEMY_ID }), publicProvider()]
 );
 

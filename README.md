@@ -1,4 +1,4 @@
-# ETH Bogota - Chain Statement 🏦
+# Bechains 🏦
 
 ### Get your cross chain crypto assets statement without revealing your identity 🌻
 
@@ -8,13 +8,13 @@ We introduce a cross chain bank statement platform: **Chain Statement**, which a
 
 Unlike ordinary crypto dashboard in web3 or traditional bank statement in web2, **Chain Statement** offers the following features that will improve **privacy** and **smooth-onboarding-experience in web3**.
 
-- Proof of Identity using zero knowledge 😊
+- Proof of Identity using zero knowledge 
 - Decentralized Storage of Account Information 🌐
 - Low-cost and lightning-fast Ethereum L2 blockchain ⚡
 - User-friendly decentralised Ethereum scaling platform 💸
 - Build next-gen multichain dApps with Hybrid Compute 🧋
 
-### Proof of Identity using zero knowledge 😊
+### Proof of Identity using zero knowledge 
 
 It is easy to get the transactions data based on address, but how can you prove that this address belongs to you?
 By using the zero knowledge features from [semaphore](https://semaphore.appliedzkp.org/), we allow user to generate unique identity which can be used to proof their identity and fetch their own chain statement.  
@@ -38,7 +38,7 @@ User can receive their chain statement which consits of:
 
 ### Low-cost and lightning-fast Ethereum L2 blockchain ⚡
 
-We don't want our users to pay high gas fee for just a simple generating chain statement request. Hence, our smart contract is deployed on [Optimism](https://www.optimism.io/), which is a Optimisitic-Rollup L2 blockchain that has low-cost and lightning-fast transaction experience.
+We don't want our users to pay high gas fee for just a simple generating chain statement request. Hence, our smart contract is deployed on [mantle](https://rpc.testnet.mantle.xyz), which is a L2 blockchain that has low-cost and lightning-fast transaction experience.
 
 ### User-friendly decentralised Ethereum scaling platform 💸
 
@@ -61,9 +61,9 @@ We deployed our smart contracts to [Boba Network](https://boba.network/) to leve
 
 ## References
 
-1. FrontEnd & Overview: https://github.com/Chain-Statements/frontend
-2. BackEnd: https://github.com/Chain-Statements/backend/blob/master/README.md
-3. Smart Contract: https://github.com/Chain-Statements/contracts/blob/master/README.md
+1. FrontEnd & Overview: https://github.com/BeChains/frontend
+2. BackEnd: https://github.com/BeChains/backend/blob/main/README.md
+3. Smart Contract: https://github.com/BeChains/contracts/blob/main/README.md
 
 ## Start building
 
