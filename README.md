@@ -48,16 +48,16 @@ User-friendly is also another main consideration for us when we're developing **
 
 We deployed our smart contracts to [Boba Network](https://boba.network/) to leverage their low transaction fees (less than 100x of Layer 1) and hybrid compute technology.
 
-## UI 💜
+## UI 
 
 1. Landing Page  
-   ![LandingPage](./public/static/LandingPage.jpg)
+   ![LandingPage](./public/static/landingpage.png)
 2. Create Identity  
-   ![CreateIdentity](./public/static/CreateIdentity.jpg)
+   ![CreateIdentity](./public/static/createidentity.png)
 3. Claim Chain Statement  
-   ![ClaimStatement](./public/static/ClaimStatement.jpg)
+   ![ClaimStatement](./public/static/claimstatement.png)
 4. Chain Statement  
-   ![ChainStatement](./public/static/SampleChainStatement.jpg)
+   ![ChainStatement](./public/static/statement.png)
 
 ## References
 
