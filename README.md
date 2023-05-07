@@ -2,11 +2,11 @@
 
 ### Get your cross chain crypto assets statement without revealing your identity 🌻
 
-We introduce a cross chain bank statement platform: **Chain Statement**, which allows users to generate their crypto asset bank statement from multiple chains, without revealing their identity on-chain.
+We introduce a cross chain bank statement platform: **Bechains**, which allows users to generate their crypto asset bank statement from multiple chains, without revealing their identity on-chain.
 
-## What Chain Statement Offer? 🪙
+## What Bechains Offer? 🪙
 
-Unlike ordinary crypto dashboard in web3 or traditional bank statement in web2, **Chain Statement** offers the following features that will improve **privacy** and **smooth-onboarding-experience in web3**.
+Unlike ordinary crypto dashboard in web3 or traditional bank statement in web2, **Bechains** offers the following features that will improve **privacy** and **smooth-onboarding-experience in web3**.
 
 - Proof of Identity using zero knowledge 
 - Decentralized Storage of Account Information 🌐
@@ -84,3 +84,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.`
+
