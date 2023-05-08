@@ -56,8 +56,7 @@ We deployed our smart contracts to [Boba Network](https://boba.network/) to leve
    ![CreateIdentity](./public/static/createidentity.png)
 3. Claim Chain Statement  
    ![ClaimStatement](./public/static/claimstatement.png)
-4. Chain Statement  
-   ![ChainStatement](./public/static/statement.png)
+
 
 ## References
 
